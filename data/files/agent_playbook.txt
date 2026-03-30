@@ -1,0 +1,32 @@
+SALES AGENT PLAYBOOK - 2024
+
+== QUALIFICATION CRITERIA ==
+Budget: Minimum $10,000 annual contract value
+Authority: Decision maker must be VP or above
+Need: Identified pain point in data management or AI workflow
+Timeline: Active evaluation within 90 days
+
+== DISCOVERY QUESTIONS ==
+1. How many data sources does your team manage today?
+2. What's your biggest pain point with agent/AI tool integrations?
+3. How much time does your team spend on manual data retrieval?
+4. What does your current approval/audit process look like?
+5. What's your target go-live date?
+
+== OBJECTION HANDLING ==
+Objection: "We already have a data warehouse"
+Response: MCP Data Connector sits on TOP of your existing warehouse —
+          it doesn't replace it. We add the agent access layer.
+
+Objection: "Security concerns about AI accessing our data"
+Response: Every tool call is logged, permissioned, and auditable.
+          Agents only see what you explicitly allow.
+
+Objection: "Too complex to integrate"
+Response: Average integration time is 2 hours. We provide connectors
+          for Postgres, REST APIs, and file systems out of the box.
+
+== PRICING TIERS ==
+Starter:       $499/mo  — up to 5 agents, 10K tool calls/mo
+Professional:  $1,999/mo — up to 20 agents, 100K tool calls/mo
+Enterprise:    Custom   — unlimited agents, SLA, SSO, RBAC
